@@ -6,5 +6,6 @@ const config = {
     powerups: ["frenzy", "wall", "invincible"],
     powerupChance: 0.015,
     powerupTime: 20,
-    frenzyChance: 0.03
+    frenzyChance: 99999999999999999999999999
+    
 }
